@@ -18,7 +18,6 @@ class Form extends Component {
         this.setState({ componentState: 'mounted' });
     }
 
-
     handleFirstNumber(event) {
         this.setState({ firstNumber: event.target.value });
     }
