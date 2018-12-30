@@ -1,2 +1,2 @@
-<h1>Testing with Jest and Enzyme in React - Part 2 (How to integrate Enzyme with Jest in Testing?)</h1>
-<a href="https://medium.com/@wasuradananjith/testing-with-jest-and-enzyme-in-react-part-2-how-to-integrate-enzyme-with-jest-in-testing-b88917787285">https://medium.com/@wasuradananjith/testing-with-jest-and-enzyme-in-react-part-2-how-to-integrate-enzyme-with-jest-in-testing-b88917787285</a>
+<h1>Testing with Jest and Enzyme in React - Part 4 (shallow vs. mount in Enzyme)</h1>
+<a href="https://medium.com/@wasuradananjith/testing-with-jest-and-enzyme-in-react-part-4-shallow-vs-mount-in-enzyme-d60cad73f85c">https://medium.com/@wasuradananjith/testing-with-jest-and-enzyme-in-react-part-4-shallow-vs-mount-in-enzyme-d60cad73f85c</a>
