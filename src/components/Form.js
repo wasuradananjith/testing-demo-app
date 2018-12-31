@@ -48,13 +48,13 @@ class Form extends Component {
             <form className='form-group'>
                 <fieldset className='form-group'>
                     <label className='form-label'>
-                        First Number:
+                        1st Number:
                     </label>
                     <input type="text" id="number1" className='form-input' value={firstNumber} onChange={this.handleFirstNumber}/>
                 </fieldset>
                 <fieldset className='form-group'>
                     <label className='form-label'>
-                        Second Number:
+                        2nd Number:
                     </label>
                     <input type="text" id="number2" className='form-input' value={secondNumber} onChange={this.handleSecondNumber}/>
                 </fieldset>

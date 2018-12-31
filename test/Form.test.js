@@ -7,6 +7,10 @@ beforeEach(() => {
 });
 
 describe('<Form /> rendering', () => {
+    it('renders correctly', () => {
+        expect(wrapper).toMatchSnapshot();
+    });
+
     it('should render one <form>', () => {
         expect(wrapper.find('form')).toHaveLength(1);
     });

@@ -1,0 +1,381 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Form /> rendering renders correctly 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Form />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <fieldset
+          className="form-group"
+        >
+          <label
+            className="form-label"
+          >
+            1st Number:
+          </label>
+          <input
+            className="form-input"
+            id="number1"
+            onChange={[Function]}
+            type="text"
+            value=""
+          />
+        </fieldset>,
+        <fieldset
+          className="form-group"
+        >
+          <label
+            className="form-label"
+          >
+            2nd Number:
+          </label>
+          <input
+            className="form-input"
+            id="number2"
+            onChange={[Function]}
+            type="text"
+            value=""
+          />
+        </fieldset>,
+        <div
+          className="form-group"
+        />,
+      ],
+      "className": "form-group",
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <label
+              className="form-label"
+            >
+              1st Number:
+            </label>,
+            <input
+              className="form-input"
+              id="number1"
+              onChange={[Function]}
+              type="text"
+              value=""
+            />,
+          ],
+          "className": "form-group",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "1st Number:",
+              "className": "form-label",
+            },
+            "ref": null,
+            "rendered": "1st Number:",
+            "type": "label",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "className": "form-input",
+              "id": "number1",
+              "onChange": [Function],
+              "type": "text",
+              "value": "",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": "input",
+          },
+        ],
+        "type": "fieldset",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <label
+              className="form-label"
+            >
+              2nd Number:
+            </label>,
+            <input
+              className="form-input"
+              id="number2"
+              onChange={[Function]}
+              type="text"
+              value=""
+            />,
+          ],
+          "className": "form-group",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "2nd Number:",
+              "className": "form-label",
+            },
+            "ref": null,
+            "rendered": "2nd Number:",
+            "type": "label",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "className": "form-input",
+              "id": "number2",
+              "onChange": [Function],
+              "type": "text",
+              "value": "",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": "input",
+          },
+        ],
+        "type": "fieldset",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            false,
+            false,
+          ],
+          "className": "form-group",
+        },
+        "ref": null,
+        "rendered": Array [
+          false,
+          false,
+        ],
+        "type": "div",
+      },
+    ],
+    "type": "form",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <fieldset
+            className="form-group"
+          >
+            <label
+              className="form-label"
+            >
+              1st Number:
+            </label>
+            <input
+              className="form-input"
+              id="number1"
+              onChange={[Function]}
+              type="text"
+              value=""
+            />
+          </fieldset>,
+          <fieldset
+            className="form-group"
+          >
+            <label
+              className="form-label"
+            >
+              2nd Number:
+            </label>
+            <input
+              className="form-input"
+              id="number2"
+              onChange={[Function]}
+              type="text"
+              value=""
+            />
+          </fieldset>,
+          <div
+            className="form-group"
+          />,
+        ],
+        "className": "form-group",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <label
+                className="form-label"
+              >
+                1st Number:
+              </label>,
+              <input
+                className="form-input"
+                id="number1"
+                onChange={[Function]}
+                type="text"
+                value=""
+              />,
+            ],
+            "className": "form-group",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "1st Number:",
+                "className": "form-label",
+              },
+              "ref": null,
+              "rendered": "1st Number:",
+              "type": "label",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "className": "form-input",
+                "id": "number1",
+                "onChange": [Function],
+                "type": "text",
+                "value": "",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": "input",
+            },
+          ],
+          "type": "fieldset",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <label
+                className="form-label"
+              >
+                2nd Number:
+              </label>,
+              <input
+                className="form-input"
+                id="number2"
+                onChange={[Function]}
+                type="text"
+                value=""
+              />,
+            ],
+            "className": "form-group",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "2nd Number:",
+                "className": "form-label",
+              },
+              "ref": null,
+              "rendered": "2nd Number:",
+              "type": "label",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "className": "form-input",
+                "id": "number2",
+                "onChange": [Function],
+                "type": "text",
+                "value": "",
+              },
+              "ref": null,
+              "rendered": null,
+              "type": "input",
+            },
+          ],
+          "type": "fieldset",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              false,
+              false,
+            ],
+            "className": "form-group",
+          },
+          "ref": null,
+          "rendered": Array [
+            false,
+            false,
+          ],
+          "type": "div",
+        },
+      ],
+      "type": "form",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getDerivedStateFromProps": true,
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+  },
+}
+`;
